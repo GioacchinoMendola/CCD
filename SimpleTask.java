@@ -18,5 +18,4 @@ public class SimpleTask implements Task {
         this.description = description;
     }
     
-    // Implementación de otros métodos de la interfaz Task
 }
